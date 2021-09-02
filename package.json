@@ -1,0 +1,15 @@
+{
+  "name": "crawly",
+  "version": "0.0.1",
+  "description": "A URL-sniffing website crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Derek Cunningham",
+  "license": "ISC",
+  "bin": "./index.js",
+  "dependencies": {
+    "crawler": "^1.3.0"
+  }
+}
